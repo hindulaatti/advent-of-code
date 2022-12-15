@@ -1,0 +1,6 @@
+[A] [D] [G] [A] [A] [A] [A] [A] [A]
+[B] [E] [H] [A] [A] [A] [A] [A] [A]
+[C] [F] [J] [A] [A] [A] [A] [A] [A]
+ 1   2   3   4   5   6   7   8   9 
+
+move 3 from 1 to 2
